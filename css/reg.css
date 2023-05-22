@@ -1,0 +1,7 @@
+body{
+    background-image: url(/images/reg.png);
+    background-size: cover;
+    position: relative;
+    padding-top: 3em;
+    text-align: center;
+}
